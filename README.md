@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Verma</h1>
-<!-- <h3 align="center">Student at Dr.Ambedkar College, Nagpur🌟.</h3> -->
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adarsh-verma-570342248" /> 
-  </p>
+<p align="right"> <h3>Profile Views :-</h3> 
+  <img src="https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue" alt="adarsh" /> 
+</p>
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adarsh-verma-570342248" /></p>
 <b>
     
