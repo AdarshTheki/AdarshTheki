@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Adarsh Verma</h1>
-<h3 align="center">Student at Dr.Ambedkar College, Nagpur🌟.</h3>
+<!-- <h3 align="center">Student at Dr.Ambedkar College, Nagpur🌟.</h3> -->
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adarsh-verma-570342248" /> 
   </p>
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adarsh-verma-570342248" /></p>
-
+<b>
 - 🌱 I’m currently learning Web Development , Data Analytics & other programming languages
 
 - 📫 How to reach me **adarshverma549@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
+</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-verma-570342248/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
+  <a href="https://github.com/AdarshTheki/" target="blank"><img align="center"
       src="https://miro.medium.com/max/720/1*WaaXnUvhvrswhBJSw4YTuQ.webp"
-      alt="adampithewan" height="40" width="70" /></a>
+      alt="adampithewan" height="50" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +49,8 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="adm-pw" 
     bg_color=#808080/></p>
 
-[Adarsh-Verma](https://github.com/AdarshTheki)
+<a>Copyright © 2023 </a>
+<a href="https://github.com/AdarshTheki/" target="_blank" rel="noreferrer">AdarshTheki
