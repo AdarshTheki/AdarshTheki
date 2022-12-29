@@ -2,7 +2,7 @@
 
 [![adarsh](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)
 
-<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="adarsh-verma-570342248" /></p>
+<a href="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" alt="adam pithewan" height="50%" width="40%" /> </a>
 <b>
     
 - 🌱 I’m currently learning Web Development , Data Analytics & other programming languages
@@ -44,10 +44,9 @@
       alt="react" width="40" height="40" /> </a>  </p>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p><img align="bottomcenter"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adm-pw" 
     bg_color=#808080/></p>
 
-<a>Copyright © 2023 </a>
-<a href="https://github.com/AdarshTheki/" target="_blank" rel="noreferrer">AdarshTheki
+<p align="center">Copyright © 2023 <a href="https://github.com/AdarshTheki/" target="_blank" rel="noreferrer"> AdarshTheki  </p>
