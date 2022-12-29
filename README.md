@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Verma</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Verma👨‍⚖️</h1>
 
 [![adarsh](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)
 ![](https://img.shields.io/badge/GitHub-v3.7.2-red?logo=github)
@@ -7,9 +7,9 @@
 <a href="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" alt="adam pithewan" height="50%" width="50%" /> </a>
 <b>
     
-- 🌱 I’m currently learning Web Development , Data Analytics & other programming languages
+- 🌱 I’m currently learning📕 Web Development🕸 , Data Analytics & other programming languages💻💬
 - 📫 How to reach me **adarshverma549@gmail.com**
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food🍱 and Music🎵 are the reasons to live.
 </b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
