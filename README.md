@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/GitHub-v3.7.2-red?logo=github)
 ![](https://img.shields.io/github/languages/code-size/AdarshTheki)
 
-<a href="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" alt="adam pithewan" height="50%" width="50%" /> </a>
+<a href="https://github.com/AdarshTheki/C-plus-plus-Notes/blob/master/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/C-plus-plus-Notes/blob/master/animation_comp.gif" alt="adam pithewan" height="50%" width="50%" /> </a>
 <b>
     
 - 🌱 I’m currently learning📕 Web Development🕸 , Data Analytics & other programming languages💻💬
