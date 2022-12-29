@@ -2,7 +2,7 @@
 
 [![adarsh](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)
 
-<a href="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" alt="adam pithewan" height="50%" width="40%" /> </a>
+<a href="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" target="blank"><img align="right" src="https://github.com/AdarshTheki/plugIN/blob/main/animation_comp.gif" alt="adam pithewan" height="50%" width="50%" /> </a>
 <b>
     
 - 🌱 I’m currently learning Web Development , Data Analytics & other programming languages
