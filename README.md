@@ -9,7 +9,7 @@
 - 📫 How to reach me **adarshverma549@gmail.com**
 - ⚡ Fun fact :- Food🍱 and Music🎵 are the reasons to live.
 </b>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshtheki" alt="adarshtheki" /></a> </p>
+<p align="left"> <a href="https://github.com/AdarshTheki"><img src="https://github-profile-trophy.vercel.app/?username=adarshtheki" alt="adarshtheki" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
