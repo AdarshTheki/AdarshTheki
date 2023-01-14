@@ -11,13 +11,10 @@
 </b>
 <p align="left"> <a href="https://github.com/AdarshTheki"><img src="https://github-profile-trophy.vercel.app/?username=adarshtheki" alt="adarshtheki" /></a> </p>
 
+<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://stackoverflow.com/users/adarshtheki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adarshtheki" height="30" width="40" /></a> -->
-<!-- <a href="https://dev.to/adarshtheki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adarshtheki" height="30" width="40" /></a> -->
-<!-- <a href="https://codesandbox.com/adarshtheki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adarshtheki" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/adarshtheki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adarshtheki" height="30" width="40" /></a> -->
-<!-- <a href="https://kaggle.com/adarshtheki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshtheki" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/adarsh-verma-570342248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshtheki" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adashverma" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshtheki" height="30" width="40" /></a>
@@ -38,8 +35,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>  -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshtheki&show_icons=true&locale=en&layout=compact" alt="adarshtheki" /></p>
@@ -48,5 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshtheki&" alt="adarshtheki" /></p>
 
-<a>Copyright © 2023 </a>
-<a href="https://github.com/AdarshTheki/" target="_blank" rel="noreferrer">AdarshVerma
+-->
+
+<div align="center"><a> Copyright © 2023 </a> <a href="https://github.com/AdarshTheki/" target="_blank" rel="noreferrer"> AdarshTheki </div>
