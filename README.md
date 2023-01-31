@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adarsh Verma👨‍⚖️</h1>
-
+<!-- <h1 align="center">Hi 👋, I'm Adarsh Verma👨‍⚖️</h1>
+ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hi✋+this+is+Adarsh+Verma;12I'm+currently+working+on+Web+Devlopment)](https://git.io/typing-svg)
+----
+  
 ![](https://komarev.com/ghpvc/?username=AdarshTheki&label=PROFILE+VIEWS&color=blue)
 ![](https://img.shields.io/github/last-commit/AdarshTheki/AdarshTheki)
 ![](https://img.shields.io/badge/GitHub-v3.7.2-red?logo=github)
