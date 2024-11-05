@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-I'm Adarsh Verma, a passionate front-end developer with expertise in building captivating web experiences. 🚀
+I'm Adarsh Verma, And passionated about Full Stack Development with expertise in building captivating web experiences. 🚀
 
 #### About Me
-- 🎓 Bachelor of Computer Application Graduate
-- 💼 Currently thriving in the role of javascript(React.js) Developer
-- 🌐 Fluent in: HTML, CSS, JavaScript
-- ⚛️ Experienced with: React.js
-- 🎨 Proficient in: Tailwind CSS
-- 🛠️ Familiar with: Figma, Git, Bash
+- 🎓 Bachelor of Computer Application Graduate(B.C.A)
+- 💼 Currently thriving in the role of MER€N Stack Developer
+- 🌐 Fluent in: HTML/CSS, JavaScript, React.js, Node.js, Express.js, MongoDB and Next.js
+- ⚛️ Experienced with: React.js and Next.js  
+- 🎨 Proficient in: Tailwind CSS and SCSS
+- 🛠️ Familiar with: Figma, Git, Firebase, Appwrite etc... 
 
 #### My Toolbox
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,8 +22,8 @@ I'm Adarsh Verma, a passionate front-end developer with expertise in building ca
 
 #### Let's Connect!
 - 📧 Email: adarshverma549@gmail.com
-- 💼 LinkedIn: [in/adarshvermadeveloper](https://www.linkedin.com/in/adarshvermadeveloper/)
-- 🌐 Twitter: [@AdarshV85809682](https://twitter.com/AdarshV85809682)
+- 💼 LinkedIn: [adarshvermadeveloper](https://www.linkedin.com/in/adarshvermadeveloper/)
+- 🌐 Twitter: [AdarshV85809682](https://twitter.com/AdarshV85809682)
 
 Thanks for stopping by! 😊
 
